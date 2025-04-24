@@ -19,20 +19,20 @@ class Calculator:
              raise ValueError("Cannot divide by zero.")
         return a / b
 
-    # def square_root(self, x):
+    def square_root(self, x):           # Function to find the square root of a number
 
-    #     return math.sqrt(x)
+        return math.sqrt(x)
 
 
 if __name__ == "__main__":
 
-    calculator = Calculator()               # create an instance of the Calculator class
+    calculator = Calculator()                                                   # create an instance of the Calculator class
     num1 = 16
     num2 = 4
-    print(f"{num1} + {num2} = {calculator.add(num1, num2)}")            #calling the add method
-    print(f"{num1} - {num2} = {calculator.subtract(num1, num2)}")       #calling the subtract method
-    print(f"{num1} * {num2} = {calculator.multiply(num1, num2)}")       #calling the multiply method
-    print(f"{num1} / {num2} = {calculator.divide(num1, num2)}")         #calling the divide method
+    print(f"{num1} + {num2} = {calculator.add(num1, num2)}")                    #calling the add method
+    print(f"{num1} - {num2} = {calculator.subtract(num1, num2)}")               #calling the subtract method
+    print(f"{num1} * {num2} = {calculator.multiply(num1, num2)}")               #calling the multiply method
+    print(f"{num1} / {num2} = {calculator.divide(num1, num2)}")                 #calling the divide method
 
-    # num3 = 25
-    # print(f"The square root of {num3} = {calculator.square_root(num3)}")
+    num3 = 25
+    print(f"The square root of {num3} = {calculator.square_root(num3)}")        #calling the square_root method

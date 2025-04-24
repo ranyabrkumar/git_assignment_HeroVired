@@ -25,7 +25,7 @@
 2. Upload a large file (>200MB) and track it using Git LFS.  
 3. Push the file to the repository.  
 4. Clone the repository on another machine to verify the file is downloaded correctly.  
-
+Read More : [Link to your file](https://github.com/ranyabrkumar/git_assignment_HeroVired/blob/lfs/GitLFS.md)
 ---
 
 ### Question 3: Geometry Calculator (Total: 20 Points)  

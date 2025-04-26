@@ -17,7 +17,7 @@
          return a / b  
     ```  
 8. Merge the `feature/sqrt` branch into `dev`, test, and release version 2.  
-
+Read More : [CalculatorPlus.md](https://github.com/ranyabrkumar/git_assignment_HeroVired/blob/dev/CalculatorPlus.md)
 ---
 
 ### Question 2: Git LFS Integration (Total: 10 Points)  
@@ -25,7 +25,7 @@
 2. Upload a large file (>200MB) and track it using Git LFS.  
 3. Push the file to the repository.  
 4. Clone the repository on another machine to verify the file is downloaded correctly.  
-
+Read More : [GitLFS.md](https://github.com/ranyabrkumar/git_assignment_HeroVired/blob/lfs/GitLFS.md)
 ---
 
 ### Question 3: Geometry Calculator (Total: 20 Points)  
@@ -41,3 +41,4 @@
 6. Switch to `feature/rectangle-area`, retrieve stashed changes, complete, and push.  
 7. Create pull requests for both features targeting the `dev` branch.  
 8. After review and approval, merge both features into the `main` branch.  
+Read More : [GeometryCalculator.md](https://github.com/ranyabrkumar/git_assignment_HeroVired/blob/feature/rectangle-area/GeometryCalculator.md)

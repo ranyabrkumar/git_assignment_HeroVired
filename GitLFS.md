@@ -47,16 +47,21 @@ A. `Clone the repository on another machine to verify the file is downloaded cor
         ```
 
     2. `Navigate to the repository folder:`
+    
         ```bash
         cd git_assignment_HeroVired
         ```
 
     3. `Switch to the `lfs` branch:`
+    
         ```bash
         git checkout lfs
         ```
 
     4. `Pull the branch to ensure Git LFS downloads the large file:`
+    
         ```bash
         git pull
         ```
+
+![image](https://github.com/user-attachments/assets/b0ca7bd0-bdfa-43d1-8bb9-7dc97e2ef322)
